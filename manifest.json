@@ -1,0 +1,22 @@
+{
+  "short_name": "BCX DEX",
+  "name": "BCX DEX",
+  "icons": [
+    {
+      "src": "./images/shiba1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/shiba1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#3366FF",
+  "background_color": "#fff"
+}
